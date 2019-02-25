@@ -1,0 +1,41 @@
+button{
+  height : 50px;
+  width: 67px;
+  color: green;
+  margin: 2px, 5px;
+}
+
+.display {
+display: none;
+
+}
+
+img{
+  float: right;
+  padding-right: 10px;
+};
+
+.completed{
+  color: purple;
+  border: 1px solid red;
+}
+
+table{
+  border: 1px solid black;
+  margin-left: 15px;
+}
+th{
+	border: 1px solid black;
+	padding: 15px 15px;
+}
+td{
+	border: 1px solid black;
+	padding: 15px 15px;	
+}
+
+body{
+background: #56ab2f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+};
